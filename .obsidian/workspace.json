@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Аккаунты.md",
+                "file": "Добро пожаловать.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Аккаунты"
+              "title": "Добро пожаловать"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "83ba1aedc7a20e31",
   "lastOpenFiles": [
-    "Добро пожаловать.md",
     "Аккаунты.md",
+    "Добро пожаловать.md",
     "Без названия 1",
     "создайте ссылку.md",
     "Без названия"
